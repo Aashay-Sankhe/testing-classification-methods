@@ -1,4 +1,4 @@
-# testing_classification_methods
+# TESTING_CLASSIFICATION_METHOD_EFFICIENCY-Python-SKLearn-TensorFlow
 A jupyter notebook containing various methods of binary classification, and evaluating metrics based on a sample dataset.
 
 
